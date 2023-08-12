@@ -8,6 +8,8 @@ import javax.persistence.Persistence;
 
 import org.junit.jupiter.api.Test;
 
+import com.jefersonwvs.app.entities.Message;
+
 import static org.junit.jupiter.api.Assertions.assertAll;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 

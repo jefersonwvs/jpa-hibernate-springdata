@@ -1,4 +1,4 @@
-package com.jefersonwvs.app;
+package com.jefersonwvs.app.entities;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
